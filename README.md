@@ -90,7 +90,10 @@ gr.close_all()
 ```
 
 ### OUTPUT:
-![Screenshot 2025-06-02 012113](https://github.com/user-attachments/assets/0ec87ce6-d166-4684-8d78-0c81a0e468d2)
+
+![image](https://github.com/user-attachments/assets/d4824bb0-6566-46ea-a469-9bfa056f1b8a)
+
+![image](https://github.com/user-attachments/assets/5d8abfc6-68b6-4114-83d8-1d7033bb090a)
 
 
 ### RESULT:
